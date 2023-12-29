@@ -1,2 +1,1 @@
-# Python_Dice is my first program ever coded...
-# Coded in 2019.
+# Python_Dice is my first program ever coded, back in 2019..

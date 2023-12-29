@@ -1,1 +1,2 @@
-"# PythonDice" 
+# Python_Dice is my first program ever coded...
+# Coded in 2019.
